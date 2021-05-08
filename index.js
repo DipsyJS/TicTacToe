@@ -1,0 +1,1 @@
+module.exports.tictactoe = require('./data/class/tictactoe/morpion');
