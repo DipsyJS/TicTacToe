@@ -3,7 +3,7 @@ Une API en constante évolution, pour DiscordJS V12
 
 ```JS
 //importation module
-const { tictactoe } = require("reconlx");
+const { tictactoe } = require("__dirname");
 
 // params
 /**
